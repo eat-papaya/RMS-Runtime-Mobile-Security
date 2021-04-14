@@ -1,8 +1,0 @@
-{
-    "device_type": "usb",
-    "system_package": "com.android.systemui",
-    "device_args": {
-        "host": "",
-        "id": ""
-    }
-}

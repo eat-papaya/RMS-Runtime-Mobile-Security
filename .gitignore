@@ -2,6 +2,9 @@
 /include
 /lib
 /.Python
+__pycache__
 .DS_Store
 .vscode
-__pycache__
+node_modules/
+/console_logs
+/agent/compiled_RMS_core.js
